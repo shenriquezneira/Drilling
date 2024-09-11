@@ -1,0 +1,12 @@
+﻿.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+    }
+
+.link-light {
+    background-color: dimgrey;
+    color: red;
+}
